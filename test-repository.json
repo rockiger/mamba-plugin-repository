@@ -1,0 +1,40 @@
+{
+	"plugins": [
+		{
+			"name": "Autosave",
+			"description": "Saves all files when Enki loses focus.",
+			"details": "https://github.com/rockiger/enkiautosave",
+			"download": "https://github.com/rockiger/enkiautosave/archive/0.0.1.zip",
+			"author": "Marco Laspe",
+			"version": "0.0.1",
+			"labels": ["theme", "file", "icons"]
+		},
+		{
+			"name": "Bracket Matcher",
+			"description": "Autocompletes open brackets like [], (), {}, \"\", '', “”, ‘’, «», ‹›, and ``.",
+			"details": "https://github.com/rockiger/enkibracketmatcher",
+			"download": "https://github.com/rockiger/enkibracketmatcher/archive/0.0.1.zip",
+			"author": "Marco Laspe",
+			"version": "0.0.1",
+			"labels": ["theme", "file", "icons"]
+		},
+		{
+			"name": "Fileswitcher",
+			"description": "Switch through your files in the style of the Opera web browser.",
+			"details": "https://github.com/rockiger/enkifileswitcher",
+			"download": "https://github.com/rockiger/enkifileswitcher/archive/0.0.1.zip",
+			"author": "Marco Laspe",
+			"version": "0.0.1",
+			"labels": ["theme", "file", "icons"]
+		},
+		{
+			"name": "Test Plugin",
+			"description": "Test the plugin for enki pluginmanager install functionality",
+			"details": "https://github.com/rockiger/enkitestplugin",
+			"download": "https://github.com/rockiger/enkitestplugin/archive/0.1.1.zip",
+			"author": "Test Programmer",
+			"version": "0.1.1",
+			"labels": ["theme", "file", "icons"]
+		}
+	]
+}
