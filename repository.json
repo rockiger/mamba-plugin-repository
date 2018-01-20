@@ -28,6 +28,15 @@
 			"labels": ["theme", "file", "icons"]
 		},
 		{
+			"name": "File Preview",
+			"description": "Preview plugin for HTML based documents, like HTML, Markdown, reStructuredText, Sphinx and CodeChat",
+			"details": "https://github.com/rockiger/mambapreview",
+			"download": "https://github.com/rockiger/mambapreview/archive/0.1.0.zip",
+			"author": "Marco Laspe",
+			"version": "0.1.0",
+			"labels": ["lint", "python"]
+		},
+		{
 			"name": "Python Linter",
 			"description": "Lint Python source files using flake8",
 			"details": "https://github.com/rockiger/pythonlinter",
