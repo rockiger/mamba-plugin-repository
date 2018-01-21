@@ -37,6 +37,15 @@
 			"labels": ["lint", "python"]
 		},
 		{
+			"name": "iPython REPL",
+			"description": "iPython REPL integration",
+			"details": "https://github.com/rockiger/mambaipython",
+			"download": "https://github.com/rockiger/mambaipython/archive/0.1.0.zip",
+			"author": "Marco Laspe",
+			"version": "0.1.0",
+			"labels": ["iPython", "python", "repl"]
+		},
+		{
 			"name": "Python Linter",
 			"description": "Lint Python source files using flake8",
 			"details": "https://github.com/rockiger/pythonlinter",
