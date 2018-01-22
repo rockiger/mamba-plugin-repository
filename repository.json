@@ -19,6 +19,15 @@
 			"labels": ["theme", "file", "icons"]
 		},
 		{
+			"name": "C/C++ File Switch",
+			"description": "Switch between C++ header and source file in Mamba text editor.",
+			"details": "https://github.com/rockiger/mambacppfileswitch",
+			"download": "https://github.com/rockiger/mambacppfileswitch/archive/0.1.0.zip",
+			"author": "Marco Laspe",
+			"version": "0.1.0",
+			"labels": ["cpp", "file"]
+		},
+		{
 			"name": "Fileswitcher",
 			"description": "Switch through your files in the style of the Opera web browser.",
 			"details": "https://github.com/rockiger/enkifileswitcher",
