@@ -55,6 +55,15 @@
 			"labels": ["iPython", "python", "repl"]
 		},
 		{
+			"name": "Open Terminal",
+			"description": "Open a terminal from Mamba text editor.",
+			"details": "https://github.com/rockiger/mambaopenterm",
+			"download": "https://github.com/rockiger/mambaopenterm/archive/0.1.0.zip",
+			"author": "Marco Laspe",
+			"version": "0.1.0",
+			"labels": ["terminal"]
+		},
+		{
 			"name": "Python Linter",
 			"description": "Lint Python source files using flake8",
 			"details": "https://github.com/rockiger/pythonlinter",
