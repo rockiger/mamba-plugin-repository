@@ -64,13 +64,13 @@
 			"labels": ["repl", "python", "scheme", "ml"]
 		},
 		{
-			"name": "Test Plugin",
+			"name": "VIM Tutor",
 			"description": "Test the plugin for enki pluginmanager install functionality",
-			"details": "https://github.com/rockiger/enkitestplugin",
-			"download": "https://github.com/rockiger/enkitestplugin/archive/0.1.1.zip",
-			"author": "Test Programmer",
+			"details": "https://github.com/rockiger/mambavimtutor",
+			"download": "https://github.com/rockiger/mambavimtutor/archive/0.1.1.zip",
+			"author": "Marco Laspe",
 			"version": "0.1.1",
-			"labels": ["theme", "file", "icons"]
+			"labels": ["vim", "tutorial"]
 		}
 	]
 }
