@@ -65,7 +65,7 @@
 		},
 		{
 			"name": "VIM Tutor",
-			"description": "A REPL integration for Python, MIT Scheme and Standard ML",
+			"description": "A simple VIM tutor for Mamba text editor vim model",
 			"details": "https://github.com/rockiger/mambavimtutor",
 			"download": "https://github.com/rockiger/mambavimtutor/archive/0.1.0.zip",
 			"author": "Marco Laspe",
