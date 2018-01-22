@@ -67,9 +67,9 @@
 			"name": "VIM Tutor",
 			"description": "Test the plugin for enki pluginmanager install functionality",
 			"details": "https://github.com/rockiger/mambavimtutor",
-			"download": "https://github.com/rockiger/mambavimtutor/archive/0.1.1.zip",
+			"download": "https://github.com/rockiger/mambavimtutor/archive/0.1.0.zip",
 			"author": "Marco Laspe",
-			"version": "0.1.1",
+			"version": "0.1.0",
 			"labels": ["vim", "tutorial"]
 		}
 	]
