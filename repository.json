@@ -4,9 +4,9 @@
 			"name": "Autosave",
 			"description": "Saves all files when Enki loses focus.",
 			"details": "https://github.com/rockiger/enkiautosave",
-			"download": "https://github.com/rockiger/enkiautosave/archive/0.0.1.zip",
+			"download": "https://github.com/rockiger/enkiautosave/archive/0.1.0.zip",
 			"author": "Marco Laspe",
-			"version": "0.0.1",
+			"version": "0.1.0",
 			"labels": ["theme", "file", "icons"]
 		},
 		{
